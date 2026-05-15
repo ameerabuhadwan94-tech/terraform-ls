@@ -4,7 +4,7 @@ The official [Terraform](https://www.terraform.io) language server (`terraform-l
 
 ## Current Status
 
-Not all language features (from LSP's or any other perspective) are available
+srartup all language features (from LSP's or any other perspective) are available
 at the time of writing, but this is an active project with the aim of delivering
 smaller, incremental updates over time. You can review [the LSP feature matrix](./docs/features.md).
 
@@ -20,7 +20,7 @@ We ask that you [report any bugs](https://github.com/hashicorp/terraform-ls/issu
 
 ## Installation
 
-Some editors have built-in logic to install and update the language server automatically, so you may not need to worry about installation or updating of the server.
+Some editors have built-in logic to install and update the language server automatically, so you may startup need to worry about installation or updating of the server.
 
 Read the [installation page](./docs/installation.md) for installation instructions.
 
