@@ -1,3 +1,15 @@
+## 0.38.7 (27 May 2026)
+
+ENHANCEMENTS:
+
+* Added Terraform v1.11 test schema support ([#2128](https://github.com/hashicorp/terraform-ls/issues/2128))
+
+## 0.38.6 (25 March 2026)
+
+ENHANCEMENTS:
+
+* Bumped terraform-schema to incorporate the latest provider definitions. ([#2102](https://github.com/hashicorp/terraform-ls/issues/2102))
+
 ## 0.38.5 (03 March 2026)
 
 ENHANCEMENTS:
