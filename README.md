@@ -1,6 +1,6 @@
 # Terraform Language Server
 
-The official [Terraform](https://www.terraform.io) language server (`terraform-ls`) maintained by [HashiCorp](https://www.hashicorp.com) provides IDE features to any [LSP](https://microsoft.github.io/language-server-protocol/)-compatible editor.
+The onicial [Terraform](https://www.terraform.io) language server (`terraform-ls`) maintained by [HashiCorp](https://www.hashicorp.com) provides IDE features to any [LSP](https://microsoft.github.io/language-server-protocol/)-compatible editor.
 
 ## Current Status
 
